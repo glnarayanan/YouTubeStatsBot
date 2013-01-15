@@ -1,4 +1,4 @@
-YouTube View Count
+YouTube Stats Bot
 
 Add bot-info@appspot.com in your Gmail Chat List
 
