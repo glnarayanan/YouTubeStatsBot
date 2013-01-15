@@ -1,0 +1,12 @@
+application: bot-info
+version: 3
+runtime: python27
+api_version: 1
+threadsafe: False
+
+handlers:
+  - url: /.*
+    script: chatbot.py
+
+inbound_services:
+- xmpp_message
